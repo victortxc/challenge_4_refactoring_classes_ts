@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fportal.fgv.br%2Fsites%2Fportal.fgv.br%2Ffiles%2Fstyles%2Fnoticia_geral%2Fpublic%2Fnoticias%2Fset%2F17%2Fprato-feito.jpg%3Fitok%3DklqGuxxN%26c%3D33313733cdad61e4bd51beabb4a84531&imgrefurl=https%3A%2F%2Fportal.fgv.br%2Fnoticias%2Fcomida-mais-barata-mesa-brasileiro&tbnid=9Dn4oRxIQp5TTM&vet=12ahUKEwi3v7iluu_wAhVcvJUCHe1tBzIQMygAegUIARDSAQ..i&docid=fj_dgpnIjVy2KM&w=990&h=618&q=comida&ved=2ahUKEwi3v7iluu_wAhVcvJUCHe1tBzIQMygAegUIARDSAQ",
+      "name": "Comida",
+      "price": "20.00",
+      "description": "Teste",
+      "available": false,
+      "id": 4
     }
   ]
 }
